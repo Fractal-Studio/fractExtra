@@ -7,8 +7,8 @@ if (!defined('MODX_CORE_PATH')) {
 return [
     'name' => 'fractExtra',
     'name_lower' => 'fractextra',
-    'version' => '2.0.0',
-    'release' => 'pl',
+    'version' => '1.0.0',
+    'release' => 'beta',
     // Install package to site right after build
     'install' => true,
     // Which elements should be updated on package upgrade

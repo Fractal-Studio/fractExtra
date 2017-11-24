@@ -4,4 +4,4 @@ fractExtra
 Author: John Doe <john@doe.com>
 --------------------
 
-A basic Extra for MODx Revolution.
+A basic Extra for MODx Revolution
