@@ -2,6 +2,7 @@ fractExtra.panel.Home = function (config) {
     config = config || {};
     Ext.apply(config, {
         baseCls: 'modx-formpanel',
+        cls: 'container',
         layout: 'anchor',
         /*
          stateful: true,
