@@ -209,7 +209,7 @@ class fractExtraPackage
             xPDOTransport::PRESERVE_KEYS => true,
             xPDOTransport::UPDATE_OBJECT => !empty($this->config['update']['menus']),
             xPDOTransport::UNIQUE_KEY => 'text',
-            xPDOTransport::RELATED_OBJECTS => true,
+            //xPDOTransport::RELATED_OBJECTS => true,
         ];
         if (is_array($menus)) {
             foreach ($menus as $name => $data) {
